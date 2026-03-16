@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Running Shoes",
+    "price": 2500,
+    "category": "Shoes",
+    "image": "images/shoes1.png"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 3500,
+    "category": "Electronics",
+    "image": "images/watch1.png"
+  },
+  {
+    "id": 3,
+    "name": "Backpack",
+    "price": 1800,
+    "category": "Bags",
+    "image": "images/bag1.png"
+  },
+  {
+    "id": 4,
+    "name": "Earrings",
+    "price": 800,
+    "category": "Jewelry",
+    "image": "images/earrings.png"
+  },
+  {
+    "id": 5,
+    "name": "Bracelet",
+    "price": 1200,
+    "category": "Jewelry",
+    "image": "images/bracelet.png"
+  },
+  {
+    "id": 6,
+    "name": "Rings",
+    "price": 1500,
+    "category": "Jewelry",
+    "image": "images/rings.png"
+  },
+  {
+    "id": 7,
+    "name": "Necklace",
+    "price": 2200,
+    "category": "Jewelry",
+    "image": "images/necklace.png"
+  }
+]
